@@ -1,0 +1,4 @@
+include TerminalLibDOCS.md
+include license
+recursive-include CPPLIB *.py
+recursive-include CPPLIB *.cpp
