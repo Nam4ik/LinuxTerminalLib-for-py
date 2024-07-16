@@ -1,0 +1,8 @@
+__init__.py
+setup.cfg
+setup.py
+linuxterminallibRM.egg-info/PKG-INFO
+linuxterminallibRM.egg-info/SOURCES.txt
+linuxterminallibRM.egg-info/dependency_links.txt
+linuxterminallibRM.egg-info/not-zip-safe
+linuxterminallibRM.egg-info/top_level.txt

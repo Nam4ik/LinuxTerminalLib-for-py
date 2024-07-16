@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: linuxterminallibRM
+Version: 1.0
+Summary: Can run commands in terminal (with sudo too)
+Author-email: arcanedevstudio@gmail.com

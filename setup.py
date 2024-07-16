@@ -1,15 +1,8 @@
 from setuptools import setup
 
-setup(
-    name='linuxterminallib',
-    version='1.0',
-    packages=['mylibrary'],
-    author='Alexey Borisov',
-    author_email='arcanedevstudio@gmail.com',
-    description='This library allows you to use the linux terminal with the help of Python ',
-    url='https://github.com/Nan4ik/LinuxterminalLib',
-    classifiers=[
-        'Programming Language :: CPP',
-        'License :: OSI Approved :: MIT License',
-    ],
-)
+setup(name='linuxterminallibRM',
+      version='1.0',
+      description='Can run commands in terminal (with sudo too)',
+      packages=[''],
+      author_email='arcanedevstudio@gmail.com',
+      zip_safe=False)
