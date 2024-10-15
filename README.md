@@ -62,7 +62,7 @@ input_data = terminal.read_from_terminal(0)
 print(input_data)
 
 # Запись данных в терминал
-terminal.write_to_terminal(0, "Hello, terminal!")
+terminal.write_to_terminal(0, "echo Hello, terminal!")
 
 ## Установка
 
