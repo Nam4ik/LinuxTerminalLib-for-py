@@ -64,16 +64,14 @@ print(input_data)
 # Запись данных в терминал
 terminal.write_to_terminal(0, "echo Hello, terminal!")
 terminal.write_to_terminal(0, "neofetch")
+```
 ## Установка
 
 Для использования модуля `terminal`, скомпилируйте его с помощью `setup.py` или другого инструмента сборки Python C-расширений.
-
-bash
-
-Copy code
-
+```bash
 python setup.py build
 python setup.py install
+```
 
 ## Зависимости
 
@@ -84,7 +82,4 @@ python setup.py install
 - Библиотеки POSIX (unistd.h, fcntl.h, termios.h)
     
 
-## Автор
-
-[Nam4ik]
 
